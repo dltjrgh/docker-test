@@ -1,4 +1,4 @@
-# docker-demo
+# Docker DEMO version for test
 A Docker - composer example that provides a Django, Flask, Java, Redis, Elasticsearch, MySQL, Postgres, and Mongo container
 
 # How to use a docker and composer
